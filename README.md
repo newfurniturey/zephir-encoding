@@ -12,3 +12,7 @@ Compile the `utils` extension with:
     ./configure
     make
     make install
+
+#### Notes:
+
+This isn't meant to actually be used, it's just me playing around and testing out the [Zephir Language](http://zephir-lang.com/) for PHP extension development =]
